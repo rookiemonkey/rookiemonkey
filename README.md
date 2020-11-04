@@ -1,3 +1,3 @@
-<img height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=java,html&theme=gotham&card_width=300" />
+<img height="auto" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=html&theme=gotham&card_width=300&langs_count=10" />
 
-<img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300" />
+<img height="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
