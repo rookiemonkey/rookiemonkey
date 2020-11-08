@@ -1,4 +1,4 @@
-<img width="100%" height="100%" style="display:inline" align="center" src="https://res.cloudinary.com/promises/image/upload/v1604485204/rookiemonkey_githubprofile_banner_hfjxur.png" />
+<img width="100%" height="100%" style="display:inline" align="center" src="./banner.png" />
 
 <img width="100%" height="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
 
