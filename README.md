@@ -61,7 +61,7 @@
 
 
 
-### SERVERS & OTHERS
+### SERVER
 
 <p>
     <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white">
