@@ -74,10 +74,12 @@
 ### DEVELOPMENT TOOLS
 <p>
     <img src="https://img.shields.io/badge/Jest%20-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Docker%20-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gulp-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white">
+    <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?&style=for-the-badge&logo=gulp&logoColor=white">
     <img src="https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 <p>
