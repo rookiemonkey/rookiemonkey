@@ -3,7 +3,7 @@
 [//]: # (IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <samp>
-    <ul style="display: flex; justify-content: space-between;">
+    <ul>
         <li><strong>What I'm currently building?</strong>
             <ul>
                 <li>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a></li>
