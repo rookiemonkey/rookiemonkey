@@ -1,17 +1,10 @@
 <img width="100%" height="100%" style="display:inline" align="center" src="./banner.png" />
 
-<p align="center">
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
-
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=html,css,scss,sass=html&theme=gotham&langs_count=6&layout=compact" />
-</p>
-
-
 [//]: # (IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <samp>
-    <ul>
-        <li><strong>What I'm currently building on my free time?</strong>
+    <ul style="display: flex; justify-content: space-between;">
+        <li><strong>What I'm currently building?</strong>
             <ul>
                 <li>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a></li>
                 <li>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></li>
@@ -27,6 +20,13 @@
         </li>
     </ul>
 </samp>
+
+<p align="center">
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
+
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=html,css,scss,sass=html&theme=gotham&langs_count=6&layout=compact" />
+</p>
+
 
 <h2><samp>MY STRONG STACK</samp></h2>
 
