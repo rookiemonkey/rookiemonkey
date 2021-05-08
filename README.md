@@ -13,7 +13,7 @@
         </li><br/>
         <li><strong>What I'm planning to study?</strong>
             <ul>
-                <li>Python (Web and Cybersecutiry)🐍</li>
+                <li>Python (Web and Cybersecurity Implementation)🐍</li>
                 <li>React Native (Mobile Apps) 📱</li>
                 <li>Electron JS (Desktop Apps) 💻</li>
             </ul>
