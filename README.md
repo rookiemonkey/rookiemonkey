@@ -3,14 +3,14 @@
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
 
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=html,css,scss,sass=html&theme=gotham&langs_count=10&layout=compact" />
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiemonkey&hide=html,css,scss,sass=html&theme=gotham&langs_count=6&layout=compact" />
 </p>
 
 
 [//]: # (IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 
-### MY STRONG STACK
+### <samp>MY STRONG STACK</samp>
 
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -21,7 +21,7 @@
 
 
 
-### FRONTEND TECHNOLOGIES
+### <samp>FRONTEND TECHNOLOGIES</samp>
 
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
 <p>
 
-### BACKEND TECHNOLOGIES
+### <samp>BACKEND TECHNOLOGIES</samp>
 
 <p>
     <img src="https://img.shields.io/badge/GraphQL%20-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
@@ -52,7 +52,7 @@
 
 
 
-### DATABASE MANAGEMENT SYSTEM
+### <samp>DATABASE MANAGEMENT SYSTEM</samp>
 
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -62,7 +62,7 @@
 
 
 
-### SERVER
+### <samp>SEVER</samp>
 
 <p>
     <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white">
@@ -72,7 +72,7 @@
 <p>
 
 
-### DEVELOPMENT TOOLS
+### <samp>DEVELOPMENT TOOLS</samp>
 <p>
     <img src="https://img.shields.io/badge/Jest%20-C21325?logo=jest&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
