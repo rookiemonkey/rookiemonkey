@@ -9,8 +9,26 @@
 
 [//]: # (IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
+<samp>
+    <ul>
+        <li><strong>What I'm currently building on my free time?</strong>
+            <ul>
+                <li>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a></li>
+                <li>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></li>
+                <li>Portfolio v2 🔜</li>
+            </ul>
+        </li><br/>
+        <li><strong>What I'm planning to study?</strong>
+            <ul>
+                <li>Python (Web and Cybersecutiry)🐍</li>
+                <li>React Native (Mobile Apps) 📱</li>
+                <li>Electron JS (Desktop Apps) 💻</li>
+            </ul>
+        </li>
+    </ul>
+</samp>
 
-### <samp>MY STRONG STACK</samp>
+<h2><samp>MY STRONG STACK</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -21,7 +39,7 @@
 
 
 
-### <samp>FRONTEND TECHNOLOGIES</samp>
+<h2><samp>FRONTEND TECHNOLOGIES</samp></h2>
 
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
@@ -37,7 +55,7 @@
     <img src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
 <p>
 
-### <samp>BACKEND TECHNOLOGIES</samp>
+<h2><samp>BACKEND TECHNOLOGIES</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/GraphQL%20-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
@@ -50,9 +68,7 @@
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 <p>
 
-
-
-### <samp>DATABASE MANAGEMENT SYSTEM</samp>
+<h2><samp>DATABASE MANAGEMENT SYSTEM</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -61,8 +77,7 @@
 <p>
 
 
-
-### <samp>SEVER</samp>
+<h2><samp>SEVER</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white">
@@ -71,8 +86,8 @@
     <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge">
 <p>
 
+<h2><samp>DEVELOPMENT TOOLS</samp></h2>
 
-### <samp>DEVELOPMENT TOOLS</samp>
 <p>
     <img src="https://img.shields.io/badge/Jest%20-C21325?logo=jest&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
