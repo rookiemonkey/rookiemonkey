@@ -10,6 +10,7 @@
             <ul>
                 <li>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a></li>
                 <li>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></li>
+                <li>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a></li>
                 <li>Portfolio v2 🔜</li>
             </ul>
         </li><br/>
