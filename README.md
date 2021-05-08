@@ -2,6 +2,8 @@
 
 [//]: # (IMG SHIELDS FROM: https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
+<h2><samp>👋 Hi, y' all!</samp></h2>
+
 <samp>
     <ul>
         <li><strong>What I'm currently building?</strong>
@@ -21,6 +23,8 @@
     </ul>
 </samp>
 
+<h2><samp>📈 GITHUB STATISTICS</samp></h2>
+
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
 
@@ -28,7 +32,7 @@
 </p>
 
 
-<h2><samp>MY STRONG STACK</samp></h2>
+<h2><samp>💪 STRONG STACK</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -39,7 +43,7 @@
 
 
 
-<h2><samp>FRONTEND TECHNOLOGIES</samp></h2>
+<h2><samp>🎨 FRONTEND TECHNOLOGIES</samp></h2>
 
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
@@ -55,7 +59,7 @@
     <img src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
 <p>
 
-<h2><samp>BACKEND TECHNOLOGIES</samp></h2>
+<h2><samp>💻 BACKEND TECHNOLOGIES</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/GraphQL%20-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
@@ -68,7 +72,7 @@
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 <p>
 
-<h2><samp>DATABASE MANAGEMENT SYSTEM</samp></h2>
+<h2><samp>🙊 DATABASE MANAGEMENT SYSTEM</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
@@ -77,7 +81,7 @@
 <p>
 
 
-<h2><samp>SEVER</samp></h2>
+<h2><samp>🌏 SERVER</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white">
@@ -86,7 +90,7 @@
     <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge">
 <p>
 
-<h2><samp>DEVELOPMENT TOOLS</samp></h2>
+<h2><samp>🔧 DEVELOPMENT TOOLS</samp></h2>
 
 <p>
     <img src="https://img.shields.io/badge/Jest%20-C21325?logo=jest&logoColor=white&style=for-the-badge" />
