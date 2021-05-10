@@ -47,6 +47,8 @@
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
 
+<img src="https://github-profile-trophy.vercel.app/?username=rookiemonkey&theme=oldie">
+
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=rookiemonkey&show_icons=true&line_height=27&count_private=true&theme=gotham&card_width=300&include_all_commits=true" />
 
