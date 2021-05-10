@@ -8,9 +8,21 @@
     <ul>
         <li><strong>What I'm currently building?</strong>
             <ul>
-                <li>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a></li>
-                <li>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></li>
-                <li>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a></li>
+                <li>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a>
+                  <ul>
+                    <li>A SaaS application that allows an organization to manage a number projects depending on their bought plan and invite their staffs. The project utilizes paymongo as a payment gateway :tada:</li>
+                  </ul>
+                </li>
+                <li>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a>
+                  <ul>
+                    <li>A notebook-like application behaves pretty much like devhints.io. I've had this private repository that grew really large through-out the months of taking down notes/links that's very useful to me.</li>
+                    <li>This app will serve as a look-up tool whenever i forgot about something related to programming</li>
+                  </ul>
+                </li>
+                <li>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a>
+                  <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
+                  <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
+                </li>
                 <li>Portfolio v2 🔜</li>
             </ul>
         </li><br/>
