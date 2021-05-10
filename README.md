@@ -20,9 +20,11 @@
                   </ul>
                 </li>
                 <li>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a>
-                  <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
-                  <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
-                </li>
+                   <ul>
+                      <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
+                      <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
+                    </li>
+                   </ul>
                 <li>Portfolio v2 🔜</li>
             </ul>
         </li><br/>
