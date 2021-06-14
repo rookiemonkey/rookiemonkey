@@ -26,6 +26,13 @@
                       <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
                     </li>
                    </ul>
+                <li><i>Imbitasyon (RSVP App) 🔜</i>
+                    <ul>
+                      <li>An application to send virtual invitations to your friend and family members via email</li>
+                      <li>Will be able to track responded/unresponsded invitation via an available dashboard</li>
+                    </li>
+                   </ul>
+                </li>
                 <li><i>Portfolio v2 🔜</i>
                     <ul>
                       <li>An improved version of my first portfolio :grin:</li>
