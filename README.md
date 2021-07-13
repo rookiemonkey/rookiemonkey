@@ -8,32 +8,29 @@
     <ul>
         <li><strong>What I'm building on my spare time?</strong>
             <ul>
-                <li><i>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></i>
-                  <ul>
-                    <li>A notebook-like application behaves pretty much like devhints.io. I've had this private repository that grew really large through-out the months of taking down notes/links that's very useful to me.</li>
-                    <li>This app will serve as a look-up tool whenever i forgot about something related to programming</li>
-                  </ul>
-                </li>
-                <li><i>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a></i>
-                   <ul>
-                      <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
-                      <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
-                    </li>
-                   </ul>
-                <li><i>Imbitasyon (RSVP App) 🔜</i>
-                    <ul>
-                      <li>An application to send virtual invitations to your friend and family members via email</li>
-                      <li>Will be able to track responded/unresponsded invitation via an available dashboard</li>
-                    </li>
-                   </ul>
-                </li>
-                <li><i>Portfolio v2 🔜</i>
-                    <ul>
-                      <li>An improved version of my first portfolio :grin:</li>
-                      <li>Sorry! The first is on a private repo and I'm too shy to make it public ahahaha :laughing:</li>
-                    </li>
-                   </ul>
-                </li>
+              <li><i>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></i>
+                <ul>
+                  <li>A notebook-like application behaves pretty much like devhints.io. I've had this private repository that grew really large through-out the months of taking down notes/links that's very useful to me.</li>
+                  <li>This app will serve as a look-up tool whenever i forgot about something related to programming</li>
+                </ul>
+              </li>
+              <li><i>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a></i>
+                <ul>
+                  <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
+                  <li>There are numerous portfolio applications that is available online but since the value varies depending on the platform, and coins.prop doesn't have a portfolio application yet, I decided to come up on my own (Personal Use Only)</li>
+                </ul>
+              <li><i>Imbitasyon (RSVP App) 🔜</i>
+                <ul>
+                  <li>An application to send virtual invitations to your friend and family members via email</li>
+                  <li>Will be able to track responded/unresponsded invitation via an available dashboard</li>
+                </ul>
+              </li>
+              <li><i>Portfolio v2 🔜</i>
+                <ul>
+                  <li>An improved version of my first portfolio :grin:</li>
+                  <li>Sorry! The first is on a private repo and I'm too shy to make it public ahahaha :laughing:</li>
+                </ul>
+              </li>
             </ul>
         </li><br/>
         <li><strong>What I'm planning to study?</strong>
