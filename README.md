@@ -6,14 +6,8 @@
 
 <samp>
     <ul>
-        <li><strong>What I'm currently building?</strong>
+        <li><strong>What I'm building on my spare time?</strong>
             <ul>
-                <li><i>Proyekto App <a href="https://github.com/rookiemonkey/proyekto">📦</a></i>
-                  <ul>
-                    <li>A SaaS application that allows an organization to manage a number projects depending on their bought plan and invite their staffs.</li>
-                    <li>The project utilizes paymongo as a payment gateway and possible more to practice a specific design pattern :tada:</li>
-                  </ul>
-                </li>
                 <li><i>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></i>
                   <ul>
                     <li>A notebook-like application behaves pretty much like devhints.io. I've had this private repository that grew really large through-out the months of taking down notes/links that's very useful to me.</li>
