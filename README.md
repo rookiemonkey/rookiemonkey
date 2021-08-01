@@ -8,12 +8,6 @@
     <ul>
         <li><strong>What I'm building on my spare time?</strong>
             <ul>
-              <li><i>Monkey Notes <a href="https://github.com/rookiemonkey/monkeynotes">📦</a></i>
-                <ul>
-                  <li>A notebook-like application behaves pretty much like devhints.io. I've had this private repository that grew really large through-out the months of taking down notes/links that's very useful to me.</li>
-                  <li>This app will serve as a look-up tool whenever i forgot about something related to programming</li>
-                </ul>
-              </li>
               <li><i>Coins Pro (Portfolio) <a href="https://github.com/rookiemonkey/coinspro-portfolio">📦</a></i>
                 <ul>
                   <li>A cryptocurrency asset management application that syncs with your coins.pro account</li>
