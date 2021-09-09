@@ -17,6 +17,9 @@
                 <ul>
                   <li>An application to send virtual invitations to your friend and family members via email</li>
                   <li>Will be able to track responded/unresponsded invitation via an available dashboard</li>
+                  <li>TRIAL events: allows users to send test invitations to 5 email addresses</li>
+                  <li>PAID events: allows users to send invitations to unlimited amount of email addresses for a PHP 100</li>
+                  <li>PAID events also has an annoucement feature where in the organizer can send send emails to the guests via email in one click</li>
                 </ul>
               </li>
               <li><i>Portfolio v2 🔜</i>
