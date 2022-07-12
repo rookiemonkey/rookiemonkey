@@ -22,12 +22,6 @@
                   <li>PAID events also has an annoucement feature where in the organizer can send send emails to the guests via email in one click</li>
                 </ul>
               </li>
-              <li><i>Portfolio v2 🔜</i>
-                <ul>
-                  <li>An improved version of my first portfolio :grin:</li>
-                  <li>Sorry! The first is on a private repo and I'm too shy to make it public ahahaha :laughing:</li>
-                </ul>
-              </li>
             </ul>
         </li><br/>
         <li><strong>What I'm planning to study?</strong>
