@@ -118,3 +118,11 @@
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
 <p>
+
+<h2><samp>QUICK LINKS</samp></h2>
+
+<ul>
+  <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming EBooks</a></li>
+  <li><a href="https://github.com/kamranahmedse/developer-roadmaps">Developer Roadmap</a></li>
+  <li><a href="https://github.com/yangshun/tech-interview-handbook">Technical Interview Hanbbook</a></li>
+</ul>
