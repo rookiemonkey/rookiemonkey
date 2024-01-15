@@ -125,4 +125,5 @@
   <li><a href="https://github.com/EbookFoundation/free-programming-books">Free Programming EBooks</a></li>
   <li><a href="https://github.com/kamranahmedse/developer-roadmaps">Developer Roadmap</a></li>
   <li><a href="https://github.com/yangshun/tech-interview-handbook">Technical Interview Hanbbook</a></li>
+  <li><a href="https://cloudresumechallenge.dev/">Cloud Resume Challenge</a></li>
 </ul>
